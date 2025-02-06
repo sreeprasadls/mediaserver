@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "sreeprasad@gmail.com",
+      "username": "sreeprasad",
+      "password": "123"
+    },
+    {
+      "id": "561d",
+      "email": "amal@gmail.com",
+      "username": "amal",
+      "password": "123"
+    },
+    {
+      "id": "d0e1",
+      "email": "sudeep@gmail.com",
+      "username": "sudeep",
+      "password": "123"
+    }
+  ],
+  "videos": [
+    {
+      "id": "1",
+      "title": "vaazha-trailer",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQa3YN9urRR9PdjNhMjt9EWCEuefvXYG8Z_2QIT2IFzKRfsZ0qEEY3NwP0npLzvdi5ash_9",
+      "Videourl": ""
+    },
+    {
+      "id": "d1a0",
+      "title": "rekhachithram",
+      "image": "https://i.ytimg.com/vi/_g4sWAFR3GE/maxresdefault.jpg",
+      "videourl": "https://www.youtube.com/embed/_g4sWAFR3GE?si=1EaM9EfeiYixTLc1"
+    }
+  ],
+  "category": [
+    {
+      "id": "6014",
+      "name": "video",
+      "videos": []
+    },
+    {
+      "id": "b2c9",
+      "name": "trailer",
+      "videos": [
+        {
+          "id": "d1a0",
+          "title": "rekhachithram",
+          "image": "https://i.ytimg.com/vi/_g4sWAFR3GE/maxresdefault.jpg",
+          "videourl": "https://www.youtube.com/embed/_g4sWAFR3GE?si=1EaM9EfeiYixTLc1"
+        },
+        {
+          "id": "1",
+          "title": "vaazha-trailer",
+          "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQa3YN9urRR9PdjNhMjt9EWCEuefvXYG8Z_2QIT2IFzKRfsZ0qEEY3NwP0npLzvdi5ash_9",
+          "Videourl": ""
+        }
+      ]
+    },
+    {
+      "id": "a11c",
+      "name": "treaser",
+      "videos": []
+    },
+    {
+      "id": "c499",
+      "name": "music",
+      "videos": []
+    }
+  ],
+  "history": [
+    {
+      "id": "1",
+      "title": "vaazha-trailer",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQa3YN9urRR9PdjNhMjt9EWCEuefvXYG8Z_2QIT2IFzKRfsZ0qEEY3NwP0npLzvdi5ash_9",
+      "videourl": "",
+      "datetime": ""
+    },
+    {
+      "id": "bbaf",
+      "videoId": "d1a0",
+      "title": "rekhachithram",
+      "image": "https://i.ytimg.com/vi/_g4sWAFR3GE/maxresdefault.jpg",
+      "videourl": "https://www.youtube.com/embed/_g4sWAFR3GE?si=1EaM9EfeiYixTLc1",
+      "datetime": "2025-02-05T09:24:19.197Z"
+    }
+  ]
+}
